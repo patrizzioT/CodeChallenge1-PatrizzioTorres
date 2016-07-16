@@ -1,0 +1,30 @@
+
+.col-lg-12{
+	border-style: solid;
+    border-width: 2px;
+    border-color:  #b5b5b5;
+}
+
+
+
+.des{
+	background-color: #E91E63; 
+
+
+
+}
+
+.tipoagua{
+
+	background-color: #3399FF;
+}
+
+.tipoelectrisidad{
+	background-color: #E0E02D;
+}
+.tipoaguaplantas{
+	background-color: #97D077;
+}
+.gris{
+	background-color: #b5b5b5;
+}
